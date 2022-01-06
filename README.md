@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FredrickChami
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaFX
+- 🌱 I currently code in JavaFX, Django, VueJS
 
 
 <!---
